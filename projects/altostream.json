@@ -1,0 +1,17 @@
+{
+  "name": "Altostream",
+  "slug": "altostream",
+  "date": "2021-12-01",
+  "highlight": "Altostream connects artists to audiences via an incentive-based music streaming  platform with an integrated multi-chain wallet.",
+  "logo": "/img/altostream.png",
+  "tags": ["altostream","media","music","NFT","multi-chain"],
+  "status": "live",
+  "website": "https://altostream.app/",
+  "twitter": "https://twitter.com/altostreamHQ",
+  "summary": "Altostream uses blockchain's revolutionary tokenized economics to take control of the music industry from corporate conglomerates and put it back in the hands of creatives, curators, and listeners.",
+  "telegram": "https://t.me/altostream",
+  "discord": "https://discord.gg/h4XPv7HZzt",
+  "docs":"https://altostream-production.s3.eu-west-1.amazonaws.com/Altostream+-+LitepaperV2+%5BUpdate+2022%5D.pdf",
+  "github":"https://github.com/altostream",
+  "token":"ALTO",
+  "cmc":""
